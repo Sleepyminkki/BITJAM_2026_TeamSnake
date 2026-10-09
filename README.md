@@ -1,2 +1,2 @@
-# BITJAM_2026_TeamSnake
-the game project for BITJAM 2026
+We are using unity 6000.6.5f1 (newest)
+Team: Jayjay, Huiko, Otso, Sakke, Luna.
